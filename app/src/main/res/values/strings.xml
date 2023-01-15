@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="loginActivityButton">LOGIN</string>
+    <string name="registerActivityButton">REGISTER</string>
+    <string name="schoolNumber">201713709003</string>
+    <string name="fullName">Ümit Sancaklı</string>
+    <string name="homePage">HOME</string>
+    <string name="message">MESSAGE</string>
+    <string name="group">GROUP</string>
+    <string name="create">CREATE</string>
+</resources>
